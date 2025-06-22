@@ -29,10 +29,3 @@ This project predicts the likelihood of heart disease using classification algor
 - Feature importance and confusion matrix visualizations are included.
 
  
- 
-3. Run the notebook:  
-   `Heart_Disease_Prediction.ipynb`
-
-## 📁 Folder Structure
-
-
