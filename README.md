@@ -28,11 +28,8 @@ This project predicts the likelihood of heart disease using classification algor
 - **Random Forest** achieved the highest accuracy.
 - Feature importance and confusion matrix visualizations are included.
 
-## 🚀 How to Run
-
-1. Clone the repo or download files
-2. Install dependencies:  
-   `pip install pandas numpy matplotlib seaborn scikit-learn`
+ 
+ 
 3. Run the notebook:  
    `Heart_Disease_Prediction.ipynb`
 
